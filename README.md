@@ -1,5 +1,7 @@
 # Video-Analysis
 
+Çalışan Davranış Analizi
+
 Haar-Cascade ile yüz tespiti yapabilmek için önce videoda olabilecek kişilerin fotoğraflarının elimizde olması gerekiyor. Proje gereği şirket çalışanlarının fotoğrafları 
 isimleri ile kaydedilmeli. Input videosunun her bir frameini video devam ettiği sürece kontrol etmeliyiz.
 
